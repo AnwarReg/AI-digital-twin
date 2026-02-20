@@ -1,0 +1,21 @@
+{
+    "full_name": "Anwar Reghai",
+    "name": "Anwar",
+    "current_role": "Computer Science and Mathematics Undergraduate Student",
+    "location": "Gettysburg, PA, USA",
+    "email": "reghan01@gettysburg.edu",
+    "linkedin": "linkedin.com/in/anwar-reghai",
+    "specialties": [
+        "MLOps and AI Systems",
+        "Cloud Infrastructure and DevOps",
+        "Full-Stack Development"
+    ],
+    "years_experience": 2,
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science and Mathematics",
+            "institution": "Gettysburg College",
+            "year": "2027"
+        }
+    ]
+}
